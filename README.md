@@ -36,11 +36,18 @@
 - **내 프로그램 메모리 눈으로 확인하기:** IntelliJ 프로파일러나 VisualVM 툴로 메모리 그래프 구경해보기
 - **자주 쓰는 설정:** 서버를 실행할 때 메모리 크기 정해주기 (`-Xms`, `-Xmx` 옵션이 대체 뭘까?)
 
-## 🧑‍🤝‍🧑 팀원 소개 및 과제 제출 현황
+## 🧑‍🤝‍🧑 팀원 소개
 
-| 이름  | 역할 |              GitHub              | 1주차 | 2주차 | 3주차 | 4주차 |
-|:---:|:---:|:--------------------------------:|:---:|:---:|:---:|:---:|
-| 박한솔 | 팀장 | [@goarns77](https://github.com/goarns77) |     | | | |
-| 한재훈 | 팀원 |  [@ImJhoon](https://github.com/ImJhoon)  |     | | | |
-| 정태현 | 팀원 | [@Jeong TaeHyeon](https://github.com/JtaeHyeon) |     | | | |
-| 남윤아 | 팀원 | [@yeunyeuna](https://github.com/yeunyeuna) |     | | | |
+| 박한솔 | 한재훈 | 정태현 | 남윤아 |
+|:------:|:------:|:------:|:------:|
+| <img src="https://avatars.githubusercontent.com/goarns77" width="100"/> | <img src="https://avatars.githubusercontent.com/ImJhoon" width="100"/> | <img src="https://avatars.githubusercontent.com/JtaeHyeon" width="100"/> | <img src="https://avatars.githubusercontent.com/yeunyeuna" width="100"/> |
+| [@goarns77](https://github.com/goarns77) | [@ImJhoon](https://github.com/ImJhoon) | [@JtaeHyeon](https://github.com/JtaeHyeon) | [@yeunyeuna](https://github.com/yeunyeuna) |
+
+## 📝 과제 제출 현황
+
+| 주차 | 박한솔 | 한재훈 | 정태현 | 남윤아 |
+|:---:|:---:|:---:|:---:|:---:|
+| 1주차 | [링크]() | [링크]() | [링크]() | [링크]() |
+| 2주차 | | | | |
+| 3주차 | | | | |
+| 4주차 | | | | |
